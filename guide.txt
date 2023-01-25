@@ -1,0 +1,8 @@
+host: C:\Windows\System32\drivers\etc
+extract file
+C:\xampp\apache go on directory and make folder crt and paste tgose files
+open crt.conf
+and replace your domain into it 
+run and give information and open the dire and install it 
+C:\xampp\apache\conf\extra open httpd-xampp.conf
+and paste the code from extracted file server txt and replace domain
